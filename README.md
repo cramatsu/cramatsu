@@ -9,7 +9,7 @@
 </pre>
 
 ```bash
-who-am-i --name="Andrew Sorokin" --age 19 --location Moscow --occupation Student
+who-am-i --name="Andrew Sorokin" --age 21 --location Moscow --occupation Student
 ```
 
 </div>
