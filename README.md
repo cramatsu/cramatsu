@@ -1,9 +1,15 @@
-# Hi everyone!
-## Koshi is here 🐷
+<h1 align="center">
+    Hi everyone!
+    <br>
+    Koshi is here🐷
+</h1>
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kossshi&theme=dracula&show_icons=true)
+<div id="image-container" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kossshi&theme=dracula&show_icons=true">
+</div>
+
 
 <h1 align="center">
     Languages & Tools 💞
@@ -38,19 +44,3 @@
         <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
     </div>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
