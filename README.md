@@ -6,7 +6,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kossshi&theme=dracula&show_icons=true)
 
-### Languages & Tools 💞
+<h1 align="center">
+    Languages & Tools 💞
+</h1>
+### 
 
 <div id="languages" style="display: flex; flex-direction: column; align-items: center">
     <div id="languages-block">
