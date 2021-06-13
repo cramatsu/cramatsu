@@ -9,9 +9,8 @@
 <h1 align="center">
     Languages & Tools 💞
 </h1>
-### 
 
-<div id="languages" style="display: flex; flex-direction: column; align-items: center">
+<div id="languages" align="center" style="display: flex; flex-direction: column; align-items: center">
     <div id="languages-block">
         <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
         <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
