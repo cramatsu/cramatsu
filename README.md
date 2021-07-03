@@ -11,7 +11,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=kossshi&theme=dracula&show_icons=true">
     </div>
     <div style="display: flex">
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kossshi)](https://github.com/anuraghazra/github-readme-stats)
     </div>
     
 </div>
