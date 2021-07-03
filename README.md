@@ -6,16 +6,15 @@
 
 <br>
 
-<div id="stats-container" style="display: flex; flex-direction: row" align="center">
+<div id="stats-container" style="display: flex; flex-direction: column; justify-content: center" align="center">
     <div style="display: flex">
         <img src="https://github-readme-stats.vercel.app/api?username=kossshi&theme=dracula&show_icons=true">
     </div>
     <div style="display: flex">
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kossshi)](https://github.com/anuraghazra/github-readme-stats)
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kossshi"/>
     </div>
     
 </div>
-
 
 <h1 align="center">
     Languages & Tools 💞
