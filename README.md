@@ -8,10 +8,10 @@
 
 <div id="stats-container" style="display: flex; flex-direction: column; justify-content: center" align="center">
     <div style="display: flex">
-        <img src="https://github-readme-stats.vercel.app/api?username=kossshi&theme=dracula&show_icons=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=kossshi&theme=vue-dark&show_icons=true">
     </div>
     <div style="display: flex">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kossshi"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kossshi&theme=vue-dark"/>
     </div>
     
 </div>
