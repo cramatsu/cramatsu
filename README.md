@@ -6,8 +6,14 @@
 
 <br>
 
-<div id="image-container" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kossshi&theme=dracula&show_icons=true">
+<div id="stats-container" style="display: flex; flex-direction: row" align="center">
+    <div style="display: flex">
+        <img src="https://github-readme-stats.vercel.app/api?username=kossshi&theme=dracula&show_icons=true">
+    </div>
+    <div style="display: flex">
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+    </div>
+    
 </div>
 
 
