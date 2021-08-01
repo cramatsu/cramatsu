@@ -49,6 +49,8 @@
         <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
     </div>
 </div>
-<div align="center">![](https://komarev.com/ghpvc/?username=kossshi)</div>
+
+![](https://komarev.com/ghpvc/?username=kossshi&style=flat-square)
+
 
 
