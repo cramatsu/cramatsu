@@ -50,7 +50,11 @@
     </div>
 </div>
 
-![](https://komarev.com/ghpvc/?username=kossshi&style=flat-square)
+<br/>
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=kossshi&style=flat-square"/></div>
+
+
 
 
 
