@@ -7,7 +7,7 @@ namespace Koshi
     class Information
     {
         public string name = "Andrew";
-        public string[] Languages = { "TypeScript", "C#", "JavaScript" };
+        public string[] Languages = { "TypeScript [basics]", "C# [basics]", "JavaScript [basics]", "Python [middle]" };
         public string[] Frameworks = { ".NET", "Express", "NestJS" };
         public double Age = 16.3;
         public string DeveloperSince = "2019";
