@@ -4,7 +4,7 @@
 - 🌌 I like to try new things.
 - 💫 I always watch the quality of the code.
 - 🌸 Striving to make our world a better place.
-- 🔭 I develop APIs mostly 
+- 🔭 I develop APIs mostly.
 
 <br/>
 
