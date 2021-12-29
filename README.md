@@ -1,5 +1,5 @@
 # Hi, there🥰
-**I'am Andrew. The rugged Russian Developer 🌿**
+**I'am Andrew. Funny Russian Developer 🌿**
 
 - 🌌 I like to try new things.
 - 💫 I always watch the quality of the code.
