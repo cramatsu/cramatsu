@@ -8,8 +8,10 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cramatsu&theme=dark&show_icons=true"
+<p align="center" style="justifyContent: row">
+  <img src="https://github-readme-stats.vercel.app/api?username=cramatsu&theme=defaultk&show_icons=true">
+   <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cramatsu&layout=compact&hide_title=true">
  </p>
 
 <br/>
