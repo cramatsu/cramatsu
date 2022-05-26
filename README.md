@@ -41,7 +41,11 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 <hr/>
-  
+
+<p align="center">
+  <img align="center" src="https://lanyard.cnrad.dev/api/226622016986415104"/>
+<p/>
+
 <p align="center">
   <a href="https://linktr.ee/cramatsu" target="_blank">Contact me</a>
 <p/>
