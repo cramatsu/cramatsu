@@ -6,8 +6,10 @@ export class Cramatsu {
   public interests: string[];
   public gender: "Male" | "Female";
   public languages: string[];
+  public tools: string[];
   public worldview: string;
   public bio: string;
+  
 
   public constructor() {
     this.age = 17;
@@ -16,6 +18,7 @@ export class Cramatsu {
     this.interests = ["Develop APIs", "Make the world a better place"];
     this.gender = "Male";
     this.languages = ["en_US", "ru_RU"];
+    this.tools = ["Elixir", "TypeScript", "GoLang"]
     this.worldview = "Confucianism";
 
     this.bio =
