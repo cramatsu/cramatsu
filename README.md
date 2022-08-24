@@ -7,6 +7,7 @@ export class Cramatsu {
   public gender: "Male" | "Female";
   public languages: string[];
   public worldview: string;
+  public toolds: string[];
   public bio: string;
 
   public constructor() {
@@ -17,7 +18,8 @@ export class Cramatsu {
     this.gender = "Male";
     this.languages = ["en_US", "ru_RU"];
     this.worldview = "Confucianism";
-
+    
+    this.tools = ["TypeScript","Redis","Prisma", "GoLang", "Elixir"]
     this.bio =
       "The goal of my projects is to be as clear and useful as possible for beginners. After all, once upon a time, in February 2020, as a 14-year-old youth, I began to master programming";
   }
