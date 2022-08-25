@@ -19,7 +19,7 @@ export class Cramatsu {
     this.languages = ["en_US", "ru_RU"];
     this.worldview = "Confucianism";
     
-    this.tools = ["TypeScript","Redis","Prisma", "GoLang", "Elixir"]
+    this.tools = ["TypeScript","Redis","Prisma", "GoLang", "Elixir"];
     this.bio =
       "The goal of my projects is to be as clear and useful as possible for beginners. After all, once upon a time, in February 2020, as a 14-year-old youth, I began to master programming";
   }
