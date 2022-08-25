@@ -7,7 +7,7 @@ export class Cramatsu {
   public gender: "Male" | "Female";
   public languages: string[];
   public worldview: string;
-  public toolds: string[];
+  public tools: string[];
   public bio: string;
 
   public constructor() {
