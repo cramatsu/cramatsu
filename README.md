@@ -49,3 +49,7 @@ export class Cramatsu {
   <a href="https://linktr.ee/cramatsu" target="_blank">Contact me</a>
 <p/>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=cramatsu&style=flat-square"/>
+</div>
+
