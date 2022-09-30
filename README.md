@@ -36,7 +36,7 @@ export class Cramatsu {
 <br/>
 
 <p align="center" style="justifyContent: row">
-  <img src="https://github-readme-stats.vercel.app/api?username=cramatsu&theme=omni&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=cramatsu&theme=rose_pine&show_icons=true">
  </p>
 
 <hr/>
