@@ -22,10 +22,10 @@
   9. Design and implement AI/ML solutions to improve product and service recommendation accuracy.
   10. Use AI/ML to identify and extract customer insights from large-scale unstructured data.
 - Increase TypeScript
-  - Become proficient in writing TypeScript code, understanding its best practices and design patterns
-  - Increase TypeScript’s usability in our current company projects by refactoring existing JavaScript code into TypeScript
-  - Learn and apply TypeScript API’s for building scalable, high-performance web applications
-  - Collaborate and share knowledge with the development team in order to improve our TypeScript skills
+  1. Become proficient in writing TypeScript code, understanding its best practices and design patterns
+  2. Increase TypeScript’s usability in our current company projects by refactoring existing JavaScript code into TypeScript
+  3. Learn and apply TypeScript API’s for building scalable, high-performance web applications
+  4. Collaborate and share knowledge with the development team in order to improve our TypeScript skills
 
 > But these are not the main goals. The most important objective is to enter a university
       
