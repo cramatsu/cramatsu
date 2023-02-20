@@ -23,8 +23,7 @@
   10. Use AI/ML to identify and extract customer insights from large-scale unstructured data.
 - Increase TypeScript
   1. Become proficient in writing TypeScript code, understanding its best practices and design patterns.
-  2. Increase TypeScript’s usability in our current company projects by refactoring existing JavaScript code into TypeScript.
-  3. Learn and apply TypeScript API’s for building scalable, high-performance web applications.
-  4. Collaborate and share knowledge with the development team in order to improve our TypeScript skills.
-  5. Create the most useful library! Shout out to OS-projects!
+  2. Learn and apply TypeScript API’s for building scalable, high-performance web applications.
+  3. Collaborate and share knowledge with the development team in order to improve our TypeScript skills.
+  4. Create the most useful library! Shout out to OS-projects!
       
