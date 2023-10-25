@@ -1,4 +1,4 @@
-# <p align="center">Wazzup, Blud!❤</p>
+<h1 align="center">Wazzup, Blud!💀</h1>
 
 <p align="center">
   <code>I'm a programmer who loves to work with Typescript, Python and C++ (rescue me).
