@@ -1,29 +1,31 @@
-# <p align="center">Hello, Commiter!❤</p>
+# <p align="center">Wazzup, Blud!❤</p>
 
-```I'm a programmer who loves to work with Typescript and Python. I'm very interested in Artificial Intelligence, Big Data and other cutting edge technologies. I'm passionate about developing efficient and reliable software solutions that bring value to the customer.```
+<p align="center">
+  <code>I'm a programmer who loves to work with Typescript, Python and C++ (rescue me).
+  I'm very interested in Artificial Intelligence, Big Data and other cutting edge technologies.
+  I'm passionate about developing efficient and reliable software solutions that bring value to the customer.</code>
+</p>
+
+<div align="center" display="grid">
+  <a href="https://linktr.ee/cramatsu" >
+    <img src="https://lanyard.cnrad.dev/api/226622016986415104?theme=dark&bg=151515"/>
+  </a>
+  <hr/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cramatsu&show_icons=true&theme=dark&hide_border=true"/>
+</div>
 
 # 💻 Core 
 - TypeScript
 - Python
-- PostgreSQL
-- Redis
+- C++
 
 # 🌠 Objectives for the year
 
 - Learn AI/ML
-  1. Develop and deploy advanced AI/ML algorithms to improve customer experience.
-  2. Utilize AI/ML solutions to automate manual processes and reduce operational costs.
-  3. Use AI/ML to identify and respond to customer needs and trends in near real-time.
-  4. Integrate AI/ML solutions into existing systems to automate customer service and support.
-  5. Design and implement AI/ML solutions to improve customer segmentation and targeting strategies.
-  6. Develop AI/ML models to improve customer churn rate by predicting customer behavior.
-  7. Utilize AI/ML to provide intelligent insights from customer data and improve customer loyalty.
-  8. Create AI/ML solutions to automate personalized marketing campaigns for customers.
-  9. Design and implement AI/ML solutions to improve product and service recommendation accuracy.
-  10. Use AI/ML to identify and extract customer insights from large-scale unstructured data.
-- Increase TypeScript
-  1. Become proficient in writing TypeScript code, understanding its best practices and design patterns.
-  2. Learn and apply TypeScript API’s for building scalable, high-performance web applications.
-  3. Collaborate and share knowledge with the development team in order to improve our TypeScript skills.
-  4. Create the most useful library! Shout out to OS-projects!
+  1. Explore Data Science
+  2. Dive into Machine Learning
+  3. Deep Dive into Deep Learning
+  4. Learn NLP/CV
+  5. Contribute to AI Community:
+
       
