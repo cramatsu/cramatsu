@@ -3,7 +3,7 @@
 <img src="https://cdn.discordapp.com/attachments/893818786992488459/1262453375077847152/eb5c14e78c946129.jpeg?ex=6696a6d3&is=66955553&hm=82976f9358745099034ca0e9b97a88b80b71c3dcb27a7f9a95559054c47a9ff3&" width="30%" align="right"/>
 <pre>
   🔥 Data Science • Machine Learning
-  ⚙️ scikit-learn • TesnsorFlow • Keras
+  ⚙️ scikit-learn • TensorFlow • Keras
   🔧 Docker • Git • SQL
   ❤️ Music • Code • Math…?
 </pre>
