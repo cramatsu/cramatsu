@@ -11,6 +11,4 @@
 ```bash
 who-am-i --name="Andrew Sorokin" --age 19 --location Moscow --occupation Student
 ```
-
-[(￣ω￣;)](https://linktr.ee/cramatsu)
 </div> 
