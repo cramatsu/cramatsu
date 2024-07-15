@@ -1,31 +1,16 @@
-<h1 align="center">Wazzup, Blud!💀</h1>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&size=24&duration=2000&pause=100&color=BDD9BF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=75&lines=cramatsu;%E3%80%8Cto+live+is+to+create%E3%80%8D"/>
+<img src="https://cdn.discordapp.com/attachments/893818786992488459/1262453375077847152/eb5c14e78c946129.jpeg?ex=6696a6d3&is=66955553&hm=82976f9358745099034ca0e9b97a88b80b71c3dcb27a7f9a95559054c47a9ff3&" width="30%" align="right"/>
+<pre>
+  🔥 Data Science • Machine Learning
+  ⚙️ scikit-learn • TesnsorFlow • Keras
+  🔧 Docker • Git • SQL
+  ❤️ Music • Code • Math…?
+</pre>
 
-<p align="center">
-  <code>I'm a programmer who loves to work with Typescript, Python and C++ (rescue me).
-  I'm very interested in Artificial Intelligence, Big Data and other cutting edge technologies.
-  I'm passionate about developing efficient and reliable software solutions that bring value to the customer.</code>
-</p>
+```bash
+who-am-i --name="Andrew Sorokin" --age 19 --location Moscow --occupation Student
+```
 
-<div align="center" display="grid">
-  <a href="https://linktr.ee/cramatsu" >
-    <img src="https://lanyard.cnrad.dev/api/226622016986415104?theme=dark&bg=151515"/>
-  </a>
-  <hr/>
-  <img src="https://github-readme-stats.vercel.app/api?username=cramatsu&show_icons=true&theme=dark&hide_border=true"/>
-</div>
-
-# 💻 Core 
-- TypeScript
-- Python
-- C++
-
-# 🌠 Objectives for the year
-
-- Learn AI/ML
-  1. Explore Data Science
-  2. Dive into Machine Learning
-  3. Deep Dive into Deep Learning
-  4. Learn NLP/CV
-  5. Contribute to AI Community:
-
-      
+[(￣ω￣;)](https://linktr.ee/cramatsu)
+</div> 
